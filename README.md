@@ -2,7 +2,7 @@
 
 **Ae.Cym** · Building whatever I need.
 
-I'm a medical student in Hyderabad who builds the tools I need — Telegram bots, automation, and Android tooling. I like owning what I build, end to end.
+I'm a medical student from Rajahmundry who builds the tools I need — Telegram bots, automation, and Android tooling. I like owning what I build, end to end.
 
 ## 🔭 What I'm building
 
